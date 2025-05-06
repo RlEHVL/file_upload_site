@@ -51,6 +51,11 @@ npm run build
 npm start
 ```
 
+
+## 사이트 
+
+![image](https://github.com/user-attachments/assets/ab669ae2-6448-4384-bdbd-99f8554a6ece)
+
 ## 라이선스
 
 MIT 
