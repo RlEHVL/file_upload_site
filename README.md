@@ -35,6 +35,11 @@ npm install
 npm run dev
 ```
 
+4. 실행:
+```bash
+node server.js
+```
+
 4. 브라우저에서 열기: http://localhost:3000
 
 ## 빌드
