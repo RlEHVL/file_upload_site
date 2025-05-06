@@ -21,8 +21,8 @@
 
 1. 저장소 클론:
 ```bash
-git clone https://github.com/RIEHVL/file-upload-site.git
-cd file-upload-site
+git clone https://github.com/RIEHVL/file_upload_site.git
+cd file_upload_site
 ```
 
 2. 종속성 설치:
