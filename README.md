@@ -2,6 +2,8 @@
 
 프로그램을 쉽게 업로드하고 공유할 수 있는 웹 애플리케이션입니다.
 
+https://www.youtube.com/watch?v=iSAsymNohZI
+
 ## 기능
 
 - 프로그램 파일 업로드 (exe, zip, rar, 7z, msi 등)
