@@ -63,6 +63,3 @@ npm start
 
 ![image](https://github.com/user-attachments/assets/ab669ae2-6448-4384-bdbd-99f8554a6ece)
 
-## 라이선스
-
-MIT 
